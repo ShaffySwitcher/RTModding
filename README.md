@@ -2,6 +2,11 @@
 
 Some useful Rhythm Tengoku Documentation to start modding the game.
 
+## Getting Started
+
+You can get started by going on the [wiki of the repository](https://github.com/ShaffySwitcher/RTModding/wiki).
+
+
 ## Useful Links
 
 [RHModding](https://discord.gg/j2WEHzE) - RHModding Server to get helped with things you have to trouble with.
